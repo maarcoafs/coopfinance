@@ -388,10 +388,10 @@ coopfinance/
 
 **Seu Nome**
 
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-perfil)
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- Email: seu.email@example.com
-- Portfolio: [seu-portfolio.com](https://seu-portfolio.com)
+- LinkedIn: [Marco Antonio Flores da Silva](https://www.linkedin.com/in/maarcofs/)
+- GitHub: [@maarcoafs](https://github.com/maarcoafs)
+- Email: maarco.afs@gmail.com
+- Portfolio: [https://portfoliomarcoflores.netlify.app/](https://portfoliomarcoflores.netlify.app/)
 
 ---
 
@@ -403,9 +403,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🙏 Agradecimentos
 
-- Spring Team pela excelente documentação
-- Comunidade Java pelo suporte
-- Baeldung pelos tutoriais de qualidade
+- 
+- 
+- 
 
 ---
 

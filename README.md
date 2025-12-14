@@ -413,9 +413,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Tem alguma dúvida ou sugestão? Entre em contato!
 
-- 📧 Email: seu.email@example.com
-- 💼 LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- 🐙 GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- 📧 Email: maarco.afs@gmail.com
+- 💼 LinkedIn: [Marco Antonio Flores da Silva](https://www.linkedin.com/in/maarcofs/)
+- 🐙 GitHub: [@maarcoafs](https://github.com/maarcoafs)
 
 ---
 
